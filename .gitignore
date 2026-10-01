@@ -2,14 +2,12 @@
 cookies.txt
 
 # Fichiers produits par le script (pas du code)
+artistes/
+liste/
 archive.txt
 erreurs.txt
 manquants.txt
-artistes/
+
 tmp*.spotdl
 tmp.log
 .err.tmp
-
-liste/
-# Ancienne copie de secours, remplacée par l'historique git
-musique.sh.sauvegarde
