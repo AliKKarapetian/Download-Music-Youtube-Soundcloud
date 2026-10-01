@@ -10,5 +10,6 @@ tmp*.spotdl
 tmp.log
 .err.tmp
 
+liste/
 # Ancienne copie de secours, remplacée par l'historique git
 musique.sh.sauvegarde
