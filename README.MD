@@ -6,12 +6,15 @@
 
 # 🎵 Téléchargeur de Musique (Spotify vers MP3)
 
+## 📌 Contexte du projet
+Ce script a été créé initialement pour répondre à mes besoins personnels. Il s'agit d'un script Bash conçu pour fonctionner sous **Linux**. Il permet de télécharger automatiquement des musiques depuis des liens Spotify (artistes ou playlists) au format MP3, en recherchant les morceaux sur YouTube et SoundCloud, puis en ajoutant les bonnes étiquettes (titre, artiste, album). Les musiques sont rangées proprement dans le dossier `~/Musique/`.
+
+*🚀 **À venir :** Je prévois de l'adapter par la suite sous la forme d'un programme en Python pour qu'il soit compatible avec Windows et d'autres systèmes d'exploitation.*
+
 ## Sommaire
 - [Étape 1 : Les dépendances à installer](#étape-1--les-dépendances-à-installer)
 - [Étape 2 : La liste d'artistes / playlists (Comment ça marche)](#étape-2--la-liste-dartistes--playlists-comment-ça-marche)
 - [Étape 3 : Le lancement du script](#étape-3--le-lancement-du-script)
-
-Ce script permet de télécharger automatiquement des musiques depuis des liens Spotify (artistes ou playlists) au format MP3. Il recherche les morceaux sur YouTube et SoundCloud, les télécharge, et ajoute les bonnes étiquettes (titre, artiste, album). Les musiques sont rangées proprement dans le dossier `~/Musique/`.
 
 ## Étape 1 : Les dépendances à installer
 
@@ -56,12 +59,12 @@ Voici le format exact à respecter :
 **1. Rendre le script exécutable (à faire une seule fois) :**
 Ouvrez un terminal là où se trouve votre script et tapez :
 ```bash
-chmod +x nom_du_script.sh
+chmod +x Music.sh
 ```
 
 **2. Lancer le script :**
 ```bash
-./nom_du_script.sh
+./Music.sh
 ```
 
 **3. Utiliser le menu :**
@@ -79,12 +82,15 @@ Une fois lancé, le script vous propose 4 choix simples :
 
 # 🎵 Music Downloader (Spotify to MP3)
 
+## 📌 Project Context
+This script was initially created to meet my own personal needs. It is a Bash script designed to run on **Linux**. It automatically downloads music from Spotify links (artists or playlists) in MP3 format by searching for tracks on YouTube and SoundCloud, and then adding the correct tags (title, artist, album). The music is neatly organized in your `~/Musique/` folder.
+
+*🚀 **Coming soon:** I plan to adapt it into a Python program in the future to make it compatible with Windows and other operating systems.*
+
 ## Table of Contents
 - [Step 1 : Dependencies to install](#step-1--dependencies-to-install)
 - [Step 2 : Artist / Playlist list (How it works)](#step-2--artist--playlist-list-how-it-works)
 - [Step 3 : Running the script](#step-3--running-the-script)
-
-This script automatically downloads music from Spotify links (artists or playlists) in MP3 format. It searches for tracks on YouTube and SoundCloud, downloads them, and adds the correct tags (title, artist, album). The music is neatly organized in your `~/Musique/` folder.
 
 ## Step 1 : Dependencies to install
 
@@ -129,12 +135,12 @@ Here is the exact format to follow:
 **1. Make the script executable (only needed once):**
 Open a terminal where your script is located and type:
 ```bash
-chmod +x script_name.sh
+chmod +x Music.sh
 ```
 
 **2. Run the script:**
 ```bash
-./script_name.sh
+./Music.sh
 ```
 
 **3. Use the menu:**
