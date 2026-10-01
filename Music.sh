@@ -15,7 +15,7 @@ TMP="$SCRIPT/tmp"
 LISTES="$SCRIPT/listes"
 VAR_COOKIES="$TMP/cookies.txt"
 VAR_MANQUANTS="$SCRIPT/Manquants.txt"
-VIDEO_TEST="https://www.youtube.com/watch?v=sNULh1Ew-S4"
+VIDEO_TEST="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 # ---------- Petites fonctions de texte ----------
 
