@@ -1,0 +1,842 @@
+[
+  {
+    "name": "2 Hard 4 The Radio",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "3AM on Glenwood",
+    "artist": "21 Savage",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "7969 Santa",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "7am On Bridle Path",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "8am in Charlotte",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "A Keeper",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "act ii: date @ 8 (feat. Drake) - remix",
+    "artist": "4batz",
+    "album_name": "act ii: date @ 8 (feat. Drake) [remix]"
+  },
+  {
+    "name": "All The Parties (feat. Chief Keef)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Amazing Shape (feat. Popcaan)",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Amen (feat. Teezo Touchdown)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Another Late Night (feat. Lil Yachty)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Away From Home",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "B's On The Table (feat. 21 Savage)",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "BackOutsideBoyz",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Bahamas Promises",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "BBL Love - Interlude",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "BBW",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "BRIAN STEEL",
+    "artist": "Drake",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Broke Boys",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Burning Bridges",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Calling For You (feat. 21 Savage)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Calling My Name",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "CELIBACY",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Champagne Poetry",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Cheetah Print (feat. Sexyy Red)",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Chicago Freestyle (feat. Giveon)",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Circadian Rhythm",
+    "artist": "Drake",
+    "album_name": "100 GIGS"
+  },
+  {
+    "name": "Circo Loco",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Classic",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "CN TOWER",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "CRYING IN CHANEL",
+    "artist": "Drake",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Currents",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "D4L",
+    "artist": "Future",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Daylight",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Deep Pockets",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "DEEPER",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Demons (feat. Fivio Foreign & Sosa Geek)",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Desires (with Future)",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "DIE TRYING",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+    "artist": "Drake",
+    "album_name": "DOG HOUSE"
+  },
+  {
+    "name": "Don’t Worry",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Down Hill",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Drew A Picasso",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Dust",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Evil Ways (feat. J. Cole)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "F*****g Fans",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Fair Trade (with Travis Scott)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Falling Back",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Family Matters",
+    "artist": "Drake",
+    "album_name": "Family Matters"
+  },
+  {
+    "name": "Fear Of Heights",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Firm Friends",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "First Person Shooter (feat. J. Cole)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Flight's Booked",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Forever",
+    "artist": "Drake",
+    "album_name": "Forever (International Version)"
+  },
+  {
+    "name": "Fortworth (feat. PARTYNEXTDOOR)",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "Fountains (with Tems)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "From Florida With Love",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Gen 5",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "Gently (feat. Bad Bunny)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Get Along Better",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "GIMME A HUG",
+    "artist": "Drake",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Girls Want Girls (with Lil Baby)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "GLORIOUS",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Goose and The Juice",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "GREEDY",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "High Fives",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "Hoe Phase",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Hours In Silence",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Housekeeping Knows (feat. Latto)",
+    "artist": "Drake",
+    "album_name": "100 GIGS"
+  },
+  {
+    "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "I Guess It’s Fuck Me",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "I'm Spent (feat. Loe Shimmy)",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "IDGAF (feat. Yeat)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "IMY2 (with Kid Cudi)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "In The Bible (with Lil Durk & Giveon)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Intro",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "It's Up (feat. Young Thug & 21 Savage)",
+    "artist": "Drake",
+    "album_name": "100 GIGS"
+  },
+  {
+    "name": "Janice STFU",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Jimmy Cooks (feat. 21 Savage)",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Jumbotron Shit Poppin",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Landed",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "LASERS",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Liability",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Little Birdie",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Losses",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Love All (with JAY-Z)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Major Distribution",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Make Them Cry",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Make Them Know",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Make Them Pay",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Make Them Remember",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Massive",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "MEET YOUR PADRE",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Members Only (feat. PARTYNEXTDOOR)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Middle of the Ocean",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "More M’s",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "MOTH BALLS",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "N 2 Deep",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "National Treasures",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "New Bestie",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "No Face",
+    "artist": "Drake",
+    "album_name": "No Face"
+  },
+  {
+    "name": "No Friends In The Industry",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "NOKIA",
+    "artist": "Drake",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Not You Too (feat. Chris Brown)",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "OMW",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "On BS",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Outside Tweaking (feat. Stunna Sandy)",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Overdrive",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Pain 1993 (with Playboi Carti)",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Papi’s Home",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "PIMMIE'S DILEMMA",
+    "artist": "Pimmie",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Pipe Down",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Plot Twist",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Polar Opposites",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Princess",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Prioritizing",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "Privileged Rappers",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Push Ups",
+    "artist": "Drake",
+    "album_name": "Push Ups"
+  },
+  {
+    "name": "Pussy & Millions (feat. Travis Scott)",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Q&A",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Race My Mind",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "RAINING IN HOUSTON",
+    "artist": "Drake",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Red Button",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Rich Flex",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Road Trips",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Screw The World - Interlude",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Shabang",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "Sideways",
+    "artist": "Gordo",
+    "album_name": "Sideways"
+  },
+  {
+    "name": "Slap The City (feat. Qendresa)",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "Slime You Out (feat. SZA)",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "SMALL TOWN FAME",
+    "artist": "Drake",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "SOMEBODY LOVES ME",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "SOMEBODY LOVES ME PT. 2",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "SOMEBODY LOVES ME PT. 2"
+  },
+  {
+    "name": "SOMETHING ABOUT YOU",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "SPIDER-MAN SUPERMAN",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "Spin Bout U",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Sticky",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Stories About My Brother",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Stuck",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Texts Go Green",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "The Remorse",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "The Shoe Fits",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "Tie That Binds",
+    "artist": "Drake",
+    "album_name": "Honestly, Nevermind"
+  },
+  {
+    "name": "Time Flies",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Toosie Slide",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Treacherous Twins",
+    "artist": "Drake",
+    "album_name": "Her Loss"
+  },
+  {
+    "name": "Tried Our Best",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "True Bestie (feat. Iconic Savvy)",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "TSU",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "Virginia Beach",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "War",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Way 2 Sexy (with Future & Young Thug)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "What Did I Miss?",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "What Would Pluto Do",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "WHEN HE'S GONE",
+    "artist": "PARTYNEXTDOOR",
+    "album_name": "$ome $exy $ongs 4 U"
+  },
+  {
+    "name": "When To Say When",
+    "artist": "Drake",
+    "album_name": "Dark Lane Demo Tapes"
+  },
+  {
+    "name": "Where’s Your Stuff Interlude",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Which One (feat. Central Cee)",
+    "artist": "Drake",
+    "album_name": "MAID OF HONOUR"
+  },
+  {
+    "name": "Whisper My Name",
+    "artist": "Drake",
+    "album_name": "ICEMAN"
+  },
+  {
+    "name": "White Bone",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "Wick Man",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "WNBA",
+    "artist": "Drake",
+    "album_name": "HABIBTI"
+  },
+  {
+    "name": "Yebba’s Heartbreak",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  },
+  {
+    "name": "You Broke My Heart",
+    "artist": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition"
+  },
+  {
+    "name": "You Only Live Twice (with Lil Wayne & Rick Ross)",
+    "artist": "Drake",
+    "album_name": "Certified Lover Boy"
+  }
+]

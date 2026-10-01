@@ -1,0 +1,507 @@
+[
+  {
+    "name": "A Scar Is Born",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Alienation",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Animal I Have Become",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Anonymous",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Another Relapse",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Apologies",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Are You Ready",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace (Expanded Edition)"
+  },
+  {
+    "name": "Bitter Taste",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Born Like This",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Break",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Broken Glass",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Bully",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Burn",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Car Crash",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "Chain of Abuse",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Chalk Outline",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Champion",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Chasing The First Time",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "Deathwish",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Dominate",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Don't Wanna Go Home Tonight",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Drown",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Expectations",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Explosions",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Fallen Angel",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "Get Out Alive",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Give In To Me",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Give Me a Reason",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Goin' Down",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Gone Forever",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Happiness",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Home",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Human Race",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "I Am An Outsider",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "I Am Machine",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "I Am The Weapon",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "I Hate Everything About You",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "In Cold Blood",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "In Waves",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Infra-Red",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "It's All Over",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Just Like You",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Kill Me Fast",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Landmine",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "Last to Know",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Let It Die",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Let You Down",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Life Starts Now",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Lifetime",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Lost in You",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Love Me Or Leave Me",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "Mayday",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Me Against You",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "Misery Loves My Company",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Neurotic (feat. Lukas Rossi)",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Never Ordinary",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "Never Too Late",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "No More",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "No Tomorrow",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Nothing To Lose But You",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "Nothing's Fair In Love and War",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "Now or Never",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "On My Own",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "One Too Many",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "One X",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Operate",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Over and Over",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Overrated",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Pain",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Painkiller",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "Redemption",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Right Left Wrong",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "Riot",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Running Away",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Scared",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Sign Of The Times",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "So Called Life",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "So What",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "Somebody That I Used to Know",
+    "artist": "Three Days Grace",
+    "album_name": "Somebody That I Used to Know"
+  },
+  {
+    "name": "Someone To Talk To (feat. Apocalyptica)",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Someone Who Cares",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "Souvenirs",
+    "artist": "Three Days Grace",
+    "album_name": "EXPLOSIONS"
+  },
+  {
+    "name": "Strange Days",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "Take Me Under",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Tell Me Why",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "The Abyss",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "The End Is Not the Answer",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "The Good Life",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "The High Road",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "The Mountain",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "The New Real",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "The Power",
+    "artist": "Three Days Grace",
+    "album_name": "Alienation"
+  },
+  {
+    "name": "The Real You",
+    "artist": "Three Days Grace",
+    "album_name": "Human"
+  },
+  {
+    "name": "Time of Dying",
+    "artist": "Three Days Grace",
+    "album_name": "One-X"
+  },
+  {
+    "name": "Time That Remains",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Unbreakable Heart",
+    "artist": "Three Days Grace",
+    "album_name": "Transit Of Venus"
+  },
+  {
+    "name": "Villain I'm Not",
+    "artist": "Three Days Grace",
+    "album_name": "Outsider"
+  },
+  {
+    "name": "Wake Up",
+    "artist": "Three Days Grace",
+    "album_name": "Three Days Grace"
+  },
+  {
+    "name": "Without You",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "World so Cold",
+    "artist": "Three Days Grace",
+    "album_name": "Life Starts Now"
+  },
+  {
+    "name": "You Don't Get Me High Anymore",
+    "artist": "Three Days Grace",
+    "album_name": "You Don't Get Me High Anymore"
+  }
+]
