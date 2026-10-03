@@ -11,3 +11,6 @@ manquants.txt
 tmp*.spotdl
 tmp.log
 .err.tmp
+
+# Environnement Python (yt-dlp, spotdl)
+.venv/

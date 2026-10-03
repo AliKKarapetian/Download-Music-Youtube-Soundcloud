@@ -7,6 +7,9 @@ shopt -s extglob
 CHEMIN="$HOME/Musique"
 SCRIPT="$CHEMIN/Script_Musique"
 VAR_ARTISTE="$SCRIPT/Artiste.json"
+
+# yt-dlp et spotdl sont installés dans le venv du projet : on le passe en premier dans le PATH
+export PATH="$SCRIPT/.venv/bin:$PATH"
 OUTILS="yt-dlp spotdl ffmpeg jq awk"
 
 PAUSE_MORCEAU=10
