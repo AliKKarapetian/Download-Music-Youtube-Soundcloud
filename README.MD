@@ -20,18 +20,37 @@ Ce script a été créé initialement pour répondre à mes besoins personnels. 
 
 Pour que le script fonctionne, vous avez besoin de quelques outils et du navigateur **Firefox** (qui sert à récupérer les cookies pour éviter d'être bloqué par YouTube).
 
-**1. Installer les paquets systèmes (exemple pour Debian/Ubuntu/Mint) :**
+**1. Installer les paquets systèmes :**
+
+Debian / Ubuntu / Mint :
 ```bash
 sudo apt update
-sudo apt install ffmpeg jq gawk python3-pip
+sudo apt install ffmpeg jq gawk python3-venv
 ```
 
-**2. Installer les outils de téléchargement (via Python) :**
+Fedora :
 ```bash
-pip3 install yt-dlp spotdl
+sudo dnf install ffmpeg jq gawk
+```
+*(Sur Fedora, `ffmpeg` complet vient du dépôt RPM Fusion.)*
+
+**2. Installer les outils de téléchargement dans un environnement virtuel (venv) :**
+
+`yt-dlp`, `spotdl` et `deno` (le moteur JavaScript dont yt-dlp a besoin pour YouTube) s'installent dans un dossier `.venv` à l'intérieur du projet. Rien n'est installé sur le reste du système.
+```bash
+cd ~/Musique/Script_Musique
+python3 -m venv .venv
+.venv/bin/pip install "yt-dlp[default]" spotdl deno
 ```
 
-*(Note : Assurez-vous que Firefox est bien installé sur votre machine).*
+Pas besoin d'activer le venv (`source .venv/bin/activate`) : `Music.sh` l'utilise tout seul au lancement.
+
+**Mettre à jour les outils** (à faire de temps en temps, surtout si YouTube bloque les téléchargements) :
+```bash
+~/Musique/Script_Musique/.venv/bin/pip install -U "yt-dlp[default]" spotdl deno
+```
+
+*(Note : Le dossier du projet doit se trouver dans `~/Musique/Script_Musique`, et Firefox doit être installé sur votre machine).*
 
 ## Étape 2 : La liste d'artistes / playlists (Comment ça marche)
 
@@ -96,18 +115,37 @@ This script was initially created to meet my own personal needs. It is a Bash sc
 
 To make the script work, you need a few tools and the **Firefox** browser (used to extract cookies to avoid being blocked by YouTube).
 
-**1. Install system packages (example for Debian/Ubuntu/Mint):**
+**1. Install system packages:**
+
+Debian / Ubuntu / Mint:
 ```bash
 sudo apt update
-sudo apt install ffmpeg jq gawk python3-pip
+sudo apt install ffmpeg jq gawk python3-venv
 ```
 
-**2. Install download tools (via Python):**
+Fedora:
 ```bash
-pip3 install yt-dlp spotdl
+sudo dnf install ffmpeg jq gawk
+```
+*(On Fedora, the full `ffmpeg` comes from the RPM Fusion repository.)*
+
+**2. Install the download tools in a virtual environment (venv):**
+
+`yt-dlp`, `spotdl` and `deno` (the JavaScript runtime yt-dlp needs for YouTube) are installed in a `.venv` folder inside the project. Nothing is installed on the rest of the system.
+```bash
+cd ~/Musique/Script_Musique
+python3 -m venv .venv
+.venv/bin/pip install "yt-dlp[default]" spotdl deno
 ```
 
-*(Note: Make sure Firefox is installed on your machine).*
+No need to activate the venv (`source .venv/bin/activate`): `Music.sh` uses it automatically when it starts.
+
+**Update the tools** (do it from time to time, especially if YouTube blocks downloads):
+```bash
+~/Musique/Script_Musique/.venv/bin/pip install -U "yt-dlp[default]" spotdl deno
+```
+
+*(Note: The project folder must be located at `~/Musique/Script_Musique`, and Firefox must be installed on your machine).*
 
 ## Step 2 : Artist / Playlist list (How it works)
 
